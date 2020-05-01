@@ -1,0 +1,7 @@
+* .lib mos_simple
+.MODEL nch nmos (level=8 vth0=0.5)
+.MODEL pch pmos (level=8 vth0=-0.5)
+* .endl mos_simple
+
+
+
